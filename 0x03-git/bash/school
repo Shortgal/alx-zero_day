@@ -1,1 +1,2 @@
-cat school
+#!/bin/bash
+echo "School
